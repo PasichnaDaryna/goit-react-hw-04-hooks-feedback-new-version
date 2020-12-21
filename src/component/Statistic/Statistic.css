@@ -1,0 +1,16 @@
+.text {
+  margin-bottom: 10px;
+  color: white;
+  background-color: #4caf50;
+  width: 100%;
+}
+
+.text:hover {
+  background-color: purple;
+}
+
+.textValue {
+  font-size: 18px;
+  color: #fff;
+  margin-left: 10px;
+}
